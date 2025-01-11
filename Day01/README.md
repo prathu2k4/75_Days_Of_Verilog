@@ -80,7 +80,7 @@ The logic gates were tested for the following **truth table**:
 
 ## 🤝 Feedback  
 
-If you have any feedback, suggestions, or ideas for improvement, feel free to reach out or connect with me on [LinkedIn] www.linkedin.com/in/pratham-jainvs.  
+If you have any feedback, suggestions, or ideas for improvement, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs)
 
 Let’s learn and grow together! 💪  
 
