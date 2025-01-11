@@ -68,7 +68,7 @@ If you:
 - Are working on a similar project  
 - Want to learn digital design together  
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/pratham-jainvs)! Let’s grow and learn as a community. 🌱  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs)! Let’s grow and learn as a community. 🌱  
 
 ---
 
