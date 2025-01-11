@@ -23,7 +23,7 @@ Follow these steps to simulate the project:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/prathu2k4/75_Days_Of_Verilog.git
-   cd 75_Days_Of_Verilog/Day01-BasicLogicGates
+   cd 75_Days_Of_Verilog/Day01
    ```
 
 2. **Compile and Simulate**  
