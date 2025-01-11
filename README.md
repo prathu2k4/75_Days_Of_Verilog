@@ -14,5 +14,5 @@ Welcome to my **75 Days of Verilog** journey! Over the next 75 days, I will impl
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/75DaysOfVerilog.git
+   git clone https://github.com/prathu2k4/75DaysOfVerilog.git
    cd 75_Days_Of_Verilog
