@@ -3,9 +3,10 @@
 Welcome to my **75 Days of Verilog** journey! Over the next 75 days, I will implement various Verilog designs, ranging from basic logic gates to more complex combinational and sequential circuits.  
 
 ## Progress Tracker
-| Day | Project Name            | Description                          |
-|-----|-------------------------|--------------------------------------|
-|  1  | Basic Logic Gates       | AND, OR, NOT, XOR, XNOR, NOR         |
+| Day | Project Name            | Description                          | Link                         |
+|-----|-------------------------|--------------------------------------|------------------------------|
+|  1  | Basic Logic Gates       | AND, OR, NOT, XOR, XNOR, NOR         | [Day 01](./Day01/README.md)  |
+
 
 ## Tools Used
 - **Icarus Verilog**: For simulation
