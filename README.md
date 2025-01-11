@@ -5,7 +5,7 @@ Welcome to my **75 Days of Verilog** journey! Over the next 75 days, I will impl
 ## Progress Tracker
 | Day | Project Name            | Description                          | Link                         |
 |-----|-------------------------|--------------------------------------|------------------------------|
-|  1  | Basic Logic Gates       | AND, OR, NOT, XOR, XNOR, NOR         | [Day 01](./Day01/README.md)  |
+|  1  | Basic Logic Gates       | AND, OR, NOT, XOR, XNOR, NOR         | [Day 01](./Day01)  |
 
 
 ## Tools Used
