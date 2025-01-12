@@ -74,8 +74,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-j
 ---
 
 ## 🙌 Thank You!  
-Thanks for visiting my repository! I hope this inspires you to dive into the world of **HDL and digital design**. 😊  
-
----
-
-Would you like me to assist in adding emojis to your project folder names or specific subfolder details? Let me know! 😊
+Thanks for visiting my repository! I hope this inspires you to dive into the world of **HDL and digital design**. 😊
