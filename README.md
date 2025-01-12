@@ -12,7 +12,8 @@ Here’s how I’m documenting my daily progress:
 | Day | Project Name            | Description                          | Link                          |
 |-----|-------------------------|--------------------------------------|-------------------------------|
 |  1  | Basic Logic Gates       | AND, OR, NOT, XOR, XNOR, NOR         | [Day 1 - Basic Gates](./Day01)  |
-|  2  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
+|  2  | 4-Input AND, BCD Adder, Ripple Carry Adder | Implementation of a 4-input AND gate, BCD adder with correction logic, and a 4-bit ripple carry adder | [Day 2 - Adders and AND Gate](./Day02) |
+|  3  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
