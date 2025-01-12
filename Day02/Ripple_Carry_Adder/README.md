@@ -93,8 +93,4 @@ I’m excited to explore more arithmetic circuits in the coming days, building o
 
 ## 🤝 Feedback  
 
-If you have any suggestions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs). Let’s collaborate and grow together! 💪  
-
----  
-
-Let me know if you need any other adjustments! 😊
+If you have any suggestions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs). Let’s collaborate and grow together! 💪
