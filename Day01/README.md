@@ -82,8 +82,4 @@ The logic gates were tested for the following **truth table**:
 
 If you have any feedback, suggestions, or ideas for improvement, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs)
 
-Let’s learn and grow together! 💪  
-
----
-
-Let me know if you’d like any further modifications to this README! 😊
+Let’s learn and grow together! 💪 
