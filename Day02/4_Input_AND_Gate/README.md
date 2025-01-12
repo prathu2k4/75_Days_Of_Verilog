@@ -92,8 +92,4 @@ The **4-input AND gate** was tested for the following truth table:
 
 I’d love to hear your feedback or suggestions! If you’re working on similar projects or have ideas to share, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs).  
 
-Let’s learn and grow together! 💪  
-
----
-
-Let me know if you’d like me to help with any additional details for this README or any part of your GitHub setup! 😊
+Let’s learn and grow together! 💪 
