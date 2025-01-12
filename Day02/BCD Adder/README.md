@@ -95,8 +95,4 @@ The **BCD Adder** adds two 4-bit BCD numbers (`a` and `b`) and an optional carry
 
 ## 🤝 Feedback  
 
-Got suggestions or feedback? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs). I’d love to hear your thoughts or collaborate on similar projects! 💡  
-
---- 
-
-Let me know if you need additional details or edits! 😊
+Got suggestions or feedback? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratham-jainvs). I’d love to hear your thoughts or collaborate on similar projects! 💡 
