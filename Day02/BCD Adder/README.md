@@ -53,7 +53,7 @@ The **BCD Adder** adds two 4-bit BCD numbers (`a` and `b`) and an optional carry
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/prathu2k4/75_Days_Of_Verilog.git
-   cd 75_Days_Of_Verilog/Day02-BCDAdder
+   cd 75_Days_Of_Verilog/Day02/BCD Adder
    ```
 
 2. **Compile and Simulate**  
