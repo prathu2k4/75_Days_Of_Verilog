@@ -32,7 +32,7 @@ Each **full adder** computes:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/prathu2k4/75_Days_Of_Verilog.git
-   cd 75_Days_Of_Verilog/Day02-RippleCarryAdder
+   cd 75_Days_Of_Verilog/Day02/Ripple_Carry_Adder
    ```
 
 2. **Compile and Simulate**  
