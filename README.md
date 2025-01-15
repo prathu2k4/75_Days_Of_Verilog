@@ -15,7 +15,8 @@ Here’s how I’m documenting my daily progress:
 |  2  | 4-Input AND, BCD Adder, Ripple Carry Adder | Implementation of a 4-input AND gate, BCD adder with correction logic, and a 4-bit ripple carry adder | [Day 2 - Adders and AND Gate](./Day02) |
 |  3  | 4:1 Multiplexer, Carry Look-Ahead Adder | Designed a 4:1 MUX and started implemented a carry look-ahead adder | [Day 3 - MUX and Carry Look-Ahead Adder](./Day03) |
 |  4  | Magnitude Comparator     | 2-bit Magnitude Comparator                     | [Day 4 - Comparator](./Day04)  |
-|  5  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
+|  5  | 3-to-8 Decoder          | Designed and implemented a 3-to-8 decoder with enable functionality | [Day 5 - Decoder](./Day05)    |
+|  6  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
