@@ -16,7 +16,8 @@ Here’s how I’m documenting my daily progress:
 |  3  | 4:1 Multiplexer, Carry Look-Ahead Adder | Designed a 4:1 MUX and started implemented a carry look-ahead adder | [Day 3 - MUX and Carry Look-Ahead Adder](./Day03) |
 |  4  | Magnitude Comparator     | 2-bit Magnitude Comparator                     | [Day 4 - Comparator](./Day04)  |
 |  5  | 3-to-8 Decoder          | Designed and implemented a 3-to-8 decoder with enable functionality | [Day 5 - Decoder](./Day05)    |
-|  6  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
+|  6  | 4-Bit Signed Comparator   | Signed comparator to determine GT, LT, or EQ between two signed 4-bit numbers | [Day 6 - Signed Comparator](./Day06) |
+|  7  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
