@@ -17,7 +17,8 @@ Here’s how I’m documenting my daily progress:
 |  4  | Magnitude Comparator     | 2-bit Magnitude Comparator                     | [Day 4 - Comparator](./Day04)  |
 |  5  | 3-to-8 Decoder          | Designed and implemented a 3-to-8 decoder with enable functionality | [Day 5 - Decoder](./Day05)    |
 |  6  | 4-Bit Signed Comparator   | Signed comparator to determine GT, LT, or EQ between two signed 4-bit numbers | [Day 6 - Signed Comparator](./Day06) |
-|  7  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
+|  7  | 4-Bit Subtractor Using 2's Complement | Designed a 4-bit subtractor using 2's complement logic to handle subtraction and borrow | [Day 7 - Subtractor](./Day07) |
+|  8  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
