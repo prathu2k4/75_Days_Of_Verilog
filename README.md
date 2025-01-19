@@ -19,7 +19,8 @@ Here’s how I’m documenting my daily progress:
 |  6  | 4-Bit Signed Comparator   | Signed comparator to determine GT, LT, or EQ between two signed 4-bit numbers | [Day 6 - Signed Comparator](./Day06) |
 |  7  | 4-Bit Subtractor Using 2's Complement | Designed a 4-bit subtractor using 2's complement logic to handle subtraction and borrow | [Day 7 - Subtractor](./Day07) |
 |  8  | 7-Segment Display Decoder  | Developed a BCD-to-7-segment display decoder for numeric visualization | [Day 8 - Seven Segment Decoder](./Day08)  |
-|  9  | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
+|  9  | 4-Bit Parity Generator | Implemented an even/odd parity generator for 4-bit input data | [Day 9 - Parity Generator](./Day09) |
+|  10 | (Coming Soon)           | 🚧 Work in Progress 🚧               |                               |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
