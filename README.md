@@ -21,7 +21,12 @@ Here’s how I’m documenting my daily progress:
 |  8  | 7-Segment Display Decoder  | Developed a BCD-to-7-segment display decoder for numeric visualization | [Day 8 - Seven Segment Decoder](./Day08)  |
 |  9  | 4-Bit Parity Generator | Implemented an even/odd parity generator for 4-bit input data | [Day 9 - Parity Generator](./Day09) |
 | 10  | 4-Input Priority Encoder          | Encodes the highest-priority active input into a 2-bit output with a valid signal | [Day 10 - Priority Encoder](./Day10) |
-| 11  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
+| 11  | Gray-to-Binary Converter         | Designed a module to convert Gray code to binary | [Day 11 - Gray to Binary](./Day11) |
+| 12  | Binary-to-Gray Converter         | Designed a module to convert binary to Gray code | [Day 12 - Binary to Gray](./Day12) |
+| 13  | Palindrome Detector             | Created a palindrome detector for 4-bit input | [Day 13 - Palindrome Detector](./Day13) |
+| 14  | 2's Complement                   | Implemented a module to calculate the 2's complement of a 4-bit number | [Day 14 - 2's Complement](./Day14) |
+| 15  | Barrel Shifter                   | Designed a barrel shifter for 4-bit data with different shift options | [Day 15 - Barrel Shifter](./Day15) |
+| 16  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
