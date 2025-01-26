@@ -26,7 +26,8 @@ Here’s how I’m documenting my daily progress:
 | 13  | Palindrome Detector             | Created a palindrome detector for 4-bit input | [Day 13 - Palindrome Detector](./Day13) |
 | 14  | 2's Complement                   | Implemented a module to calculate the 2's complement of a 4-bit number | [Day 14 - 2's Complement](./Day14) |
 | 15  | Barrel Shifter                   | Designed a barrel shifter for 4-bit data with different shift options | [Day 15 - Barrel Shifter](./Day15) |
-| 16  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
+| 16  | Majority Function               | Created a majority function for 3 input bits | [Day 16 - Majority Function](./Day16) |
+| 17  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
