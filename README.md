@@ -27,7 +27,17 @@ Here’s how I’m documenting my daily progress:
 | 14  | 2's Complement                   | Implemented a module to calculate the 2's complement of a 4-bit number | [Day 14 - 2's Complement](./Day14) |
 | 15  | Barrel Shifter                   | Designed a barrel shifter for 4-bit data with different shift options | [Day 15 - Barrel Shifter](./Day15) |
 | 16  | Majority Function               | Created a majority function for 3 input bits | [Day 16 - Majority Function](./Day16) |
-| 17  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
+| 17  | Priority Encoder (8-input)      | Designed an 8-input priority encoder for selecting the highest-priority active input | [Day 17 - Priority Encoder](./Day17) |
+| 18  | 4-bit Magnitude Comparator       | Implemented a 4-bit magnitude comparator to compare two binary numbers | [Day 18 - Magnitude Comparator](./Day18) |
+| 19  | Traffic Light Controller         | Developed a combinational circuit for a traffic light controller | [Day 19 - Traffic Light Controller](./Day19) |
+| 20  | D Flip-Flop                      | Designed a D Flip-Flop with clocked operation | [Day 20 - D Flip-Flop](./Day20) |
+| 21  | T Flip-Flop using D Flip-Flop    | Implemented a T Flip-Flop using a D Flip-Flop | [Day 21 - T Flip-Flop](./Day21) |
+| 22  | 4-bit Synchronous Counter        | Created a 4-bit synchronous counter using flip-flops | [Day 22 - Synchronous Counter](./Day22) |
+| 23  | 4-bit Asynchronous Counter       | Designed a 4-bit ripple counter (asynchronous counter) | [Day 23 - Asynchronous Counter](./Day23) |
+| 24  | Johnson Counter (4-bit)          | Developed a 4-bit Johnson Counter with feedback | [Day 24 - Johnson Counter](./Day24) |
+| 25  | Ring Counter                     | Designed a 4-bit ring counter with cyclic shifting | [Day 25 - Ring Counter](./Day25) |
+| 26  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
+
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
 
