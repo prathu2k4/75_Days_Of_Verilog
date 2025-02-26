@@ -35,8 +35,23 @@ Here’s how I’m documenting my daily progress:
 | 22  | 4-bit Synchronous Counter        | Created a 4-bit synchronous counter using flip-flops | [Day 22 - Synchronous Counter](./Day22) |
 | 23  | 4-bit Asynchronous Counter       | Designed a 4-bit ripple counter (asynchronous counter) | [Day 23 - Asynchronous Counter](./Day23) |
 | 24  | Johnson Counter (4-bit)          | Developed a 4-bit Johnson Counter with feedback | [Day 24 - Johnson Counter](./Day24) |
-| 25  | Ring Counter                     | Designed a 4-bit ring counter with cyclic shifting | [Day 25 - Ring Counter](./Day25) |
-| 26  | (Coming Soon)                     | 🚧 Work in Progress 🚧 |  |
+| 25  | Ring_Counter                        | Designed a 4-bit ring counter with cyclic shifting | [Day 25 - Ring Counter](./Day25) |
+| 26  | 8bit_Shift_Register                 | Implemented an 8-bit shift register | [Day 26 - Shift Register](./Day26) |
+| 27  | Serial_to_Parallel                  | Designed a serial-to-parallel converter | [Day 27 - Serial to Parallel](./Day27) |
+| 28  | Clock_Divider_8                     | Developed an 8-bit clock divider | [Day 28 - Clock Divider](./Day28) |
+| 29  | Frequency_Counter                   | Created a frequency counter module | [Day 29 - Frequency Counter](./Day29) |
+| 30  | FSM_101_Detector                    | Implemented a 101 sequence detector FSM | [Day 30 - FSM 101 Detector](./Day30) |
+| 31  | Overlapping_Sequence_Detector       | Designed a sequence detector for overlapping sequences | [Day 31 - Sequence Detector](./Day31) |
+| 32  | Mealy_FSM_(Vending_Machine)         | Developed a Mealy FSM for a vending machine | [Day 32 - Vending Machine FSM](./Day32) |
+| 33  | Traffic_Light_FSM(Timed_Transitions)| Created a traffic light FSM with timed transitions | [Day 33 - Traffic Light FSM](./Day33) |
+| 34  | LFSR(Random_Number_Generator)       | Implemented an LFSR-based random number generator | [Day 34 - LFSR RNG](./Day34) |
+| 35  | Digital_Lock_System(4-bit_Password) | Designed a digital lock system with a 4-bit password | [Day 35 - Digital Lock](./Day35) |
+| 36  | Stop-watch_Circuit                  | Developed a stopwatch circuit with start/stop functionality | [Day 36 - Stopwatch](./Day36) |
+| 37  | UART_Transmitter                    | Implemented a UART transmitter module | [Day 37 - UART Transmitter](./Day37) |
+| 38  | UART_Receiver                       | Implemented a UART receiver module | [Day 38 - UART Receiver](./Day38) |
+| 39  | ALU                                 | Designed an Arithmetic Logic Unit (ALU) | [Day 39 - ALU](./Day39) |
+| 40  | Control_Logic_for_Microprocessor    | Developed control logic for a simple microprocessor | [Day 40 - Control Logic](./Day40) |
+| 41  | (Coming Soon)    |🚧 Work in Progress 🚧| 
 
 
 Keep an eye on this tracker as I upload each day’s project. I’ll be expanding this list as I progress further! 🚀  
