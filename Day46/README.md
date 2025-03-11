@@ -18,16 +18,24 @@ Today, I implemented a **Motor Controller** using **PWM (Pulse Width Modulation)
 - If `enable = 0`, the motor is **stopped** by setting `pwm_out = 0`.  
 
 ### **Simulation Steps**  
-```sh
+
 # Clone the repository
+
+```
 git clone https://github.com/prathu2k4/75_Days_Of_Verilog.git
 cd 75_Days_Of_Verilog/Day46_Motor_Controller
+```
 
 # Run the simulation
+
+```
 iverilog -o motor_controller_tb motor_controller_tb.v motor_controller.v
 vvp motor_controller_tb
+```
 
 # View waveform
+
+```
 gtkwave motor_controller.vcd
 ```
 
